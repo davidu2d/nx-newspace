@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "projects": {
+    "api-credito": "apps/api-credito"
+  }
+}
